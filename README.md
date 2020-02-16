@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://tarnapolskyi.github.io/rsschool-cv/cv
